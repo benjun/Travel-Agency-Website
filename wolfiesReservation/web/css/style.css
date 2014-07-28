@@ -1,0 +1,8 @@
+#query {
+    border: 2px #A3A3A3;
+}
+
+#query td {
+    border: 2px solid #A3A3A3;
+    padding: 3px;
+}
